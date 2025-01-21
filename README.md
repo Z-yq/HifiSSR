@@ -1,4 +1,4 @@
-# Zero-Shot VC
+# Speech Super-Resolution
 
 环境安装
 
